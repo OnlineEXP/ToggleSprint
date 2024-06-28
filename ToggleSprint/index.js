@@ -1,10 +1,10 @@
-let on = true
-let f = new KeyBind(mc.field_71474_y.field_74351_w)
-let s = new KeyBind(mc.field_71474_y.field_151444_V)
+const on = true
+const f = new KeyBind(mc.field_71474_y.field_74351_w)
+const s = new KeyBind(mc.field_71474_y.field_151444_V)
 
 f.registerKeyDown(() => {
     if (on) s.setState(true)
-});
+})
 
 register("command", () => {
     on = !on
