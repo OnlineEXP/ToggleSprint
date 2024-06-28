@@ -1,0 +1,7 @@
+{
+    "name": "ToggleSprint",
+    "creator": "Kesler",
+    "description": "A Lightweight ToggleSprint Module for Minecraft 1.8.9",
+    "version": "1",
+    "entry": "index.js"
+}
