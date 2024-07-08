@@ -2,7 +2,7 @@
 
 ## Features
 
-- **ToggleSprint:** Allows the user to toggle always sprinting or manually sprinting.
+- **ToggleSprint:** Allows the user to toggle always sprinting or manually sprinting using `/togglesprint` or `/ts`.
 
 ## Requirements
 
