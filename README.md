@@ -18,7 +18,7 @@
 2. **Install ChatTriggers:**
    - Download and install ChatTriggers from the [official website](https://www.chattriggers.com/).
 
-3. **Download AnvilEnchants:**
+3. **Download ToggleSprint:**
    - Clone or download the ToggleSprint repository from [GitHub](https://github.com/keslerlee/ToggleSprint).
 
 4. **Move Files:**
