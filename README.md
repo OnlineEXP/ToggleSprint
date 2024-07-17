@@ -22,4 +22,4 @@
    - Clone or download the ToggleSprint repository from [GitHub](https://github.com/keslerlee/ToggleSprint).
 
 4. **Move Files:**
-   - Place the ToggleSprint folder into the ChatTriggers modules folder located in `.minecraft/ChatTriggers/modules`.
+   - Place the ToggleSprint folder into the ChatTriggers modules folder located in `.minecraft/config/ChatTriggers/modules`.
